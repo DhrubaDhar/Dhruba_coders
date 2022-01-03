@@ -1,0 +1,11 @@
+p{
+    text-align: justify;
+    text-shadow: 10px;
+    text-transform: uppercase;
+}
+body{
+    background-color: rgb(148, 252, 252);
+}
+.second{
+    color: rgb(255, 0, 140);
+}
