@@ -1,11 +1,19 @@
-p{
-    text-align: justify;
-    text-shadow: 10px;
-    text-transform: uppercase;
-}
 body{
-    background-color: rgb(148, 252, 252);
+    font-family: 'Poppins', sans-serif;
 }
-.second{
-    color: rgb(255, 0, 140);
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 15%;
+}
+.half-width img{
+    width: 100%;
 }
